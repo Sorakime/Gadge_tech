@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+	margin-top: 120px;
+    padding: 0;
+    font-family: 'Noto Serif JP',serif
+    background-color: white;
+    color: black;
+}
+
+@media(prefers-color-scheme: dark){
+	body{
+		background-color: black;
+		color: white;
+	}
+}
